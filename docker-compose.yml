@@ -1,0 +1,17 @@
+services:
+  worker:
+    image: dairoot/chatgpt-mirror:latest
+    volumes:
+      - ./admin/dist:/tmp/dist
+      - ./worker/wrangler.toml:/app/worker/wrangler.toml
+      - chatgpt_data:/app/worker/.wrangler
+
+    ports:
+      - "8787-8791:8787"
+    command: bash -c 'cp -r admin/dist /tmp/ && cd worker && npx wrangler d1 execute chatgpt --local --file=./schema.sql && npm run start'
+    deploy:
+      replicas: 5
+    restart: always
+
+volumes:
+  chatgpt_data:
