@@ -8,7 +8,7 @@ ChatGPT Mirror 后台是一个 ChatGPT 镜像网站，允许多账号共享管�
 ## 特点
 - 提供与官网同等的极致体验。
 - 用户无需翻墙，便可轻松访问并使用 ChatGPT 官方网站的所有功能。
-- 通过录入 ChatGPT Token 到 ChatGPT Mirror 后台，让团队成员人均拥有独立账号（或共享同一个`ChatGPT Plus`账号）。
+- 通过在 `Mirror` 后台录入 `ChatGPT Token`，让团队成员每人拥有独立账号 (或共享同一个`ChatGPT Plus`账号)。
 - 提供便捷的管理后台，帮助管理员高效管理账号。
 
 ## 使用方法
