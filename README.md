@@ -1,10 +1,15 @@
-# ChatGPT Mirror
+<h1 align="center">ChatGPT Mirror</h1>
 
-`ChatGPT Mirror 后台` 是一个 ChatGPT 镜像网站，允许多账号共享管理。实现多人同时使用 ChatGPT 服务。提供与官网一模一样的体验感！
+[![License](https://img.shields.io/github/license/dairoot/ChatGPT-Mirror)](https://github.com/dairoot/ChatGPT-Mirror/blob/main/LICENSE)
 
-- 用户无需翻墙，即可轻松访问并体验 ChatGPT 官方网站的全部功能。
-- 通过批量申请 ChatGPT 账号并录入 `ChatGPT Mirror 后台`，实现团队内人均拥有独立账号。
-- 提供管理后台，方便管理员对账号进行高效管理。
+ChatGPT Mirror 后台是一个 ChatGPT 镜像网站，允许多账号共享管理。实现多人同时使用 ChatGPT Plus 服务。
+
+
+## 特点
+- 提供与官网同等的极致体验。
+- 用户无需翻墙，便可轻松访问并使用 ChatGPT 官方网站的所有功能。
+- 通过批量申请 ChatGPT 账号并录入 ChatGPT Mirror 后台，让团队成员每人都拥有独立账号（或者共享同一个Plus 账号）。
+- 提供便捷的管理后台，帮助管理员高效管理账号。
 
 ## 使用方法
 
