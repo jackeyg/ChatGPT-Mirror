@@ -8,7 +8,7 @@ services:
 
     ports:
       - "8787-8791:8787"
-    command: bash -c 'cp -r admin/dist /tmp/ && cd worker && npx wrangler d1 execute chatgpt --local --file=./schema.sql && npm run start'
+    command: bash -c 'cp -r admin/dist /tmp/ && cd worker && npx wrangler d1 execute chatgpt --local --file=./schema.sql  > /dev/null && npm run start'
     deploy:
       replicas: 5
     restart: always

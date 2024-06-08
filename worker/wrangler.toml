@@ -10,5 +10,5 @@ database_id = "881d58b9-f6b5-49e9-a19b-d860670c3213"
 
 
 [vars]
-ADMIN_USERNAME = 'dairoot' # 管理后台账号密码 （请更改此密码）
-ADMIN_PASSWORD = '8f5654bfaf2ea505' 
+# ADMIN_USERNAME = 'dairoot' # 管理后台账号密码 （请更改此密码，并取消注释）
+# ADMIN_PASSWORD = 'dairoot' 

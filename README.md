@@ -20,7 +20,7 @@ ChatGPT Mirror 后台是一个 ChatGPT 镜像网站，允许多账号共享管�
 
 ```bash
 # 本地需要翻墙
-cp worker/wrangler.example.toml worker/wrangler.toml # 修改管理后台账号密码
+vi worker/wrangler.toml # 修改管理后台账号密码
 
 docker compose up
 
@@ -34,7 +34,7 @@ caddy run --config ./Caddyfile --watch
 1. 运行
 
 ```bash
-cp worker/wrangler.example.toml worker/wrangler.toml # 修改管理后台账号密码
+vi worker/wrangler.toml # 修改管理后台账号密码
 
 docker compose pull # 更新镜像
 
