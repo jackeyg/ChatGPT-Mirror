@@ -8,7 +8,7 @@ localhost:443 {
 	handle {
 		reverse_proxy * {
 			to localhost:8787
-			# to localhost:8787 localhost:8788 localhost:8789 localhost:8790 localhost:8791
+			# to localhost:8787 localhost:8788 localhost:8789
 			lb_policy round_robin
 		}
 	}

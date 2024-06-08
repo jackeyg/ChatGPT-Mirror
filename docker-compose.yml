@@ -7,10 +7,10 @@ services:
       - chatgpt_data:/app/worker/.wrangler
 
     ports:
-      - "8787-8791:8787"
+      - "8787-8789:8787"
     command: bash -c 'cp -r admin/dist /tmp/ && cd worker && npx wrangler d1 execute chatgpt --local --file=./schema.sql  > /dev/null && npm run start'
     deploy:
-      replicas: 5
+      replicas: 3
     restart: always
 
 volumes:

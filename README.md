@@ -48,8 +48,6 @@ upstream chatgpt {
     server 127.0.0.1:8787;
     server 127.0.0.1:8788;
     server 127.0.0.1:8789;
-    server 127.0.0.1:8790;
-    server 127.0.0.1:8791;
 }
 
 server {
