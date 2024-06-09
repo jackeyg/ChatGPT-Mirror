@@ -14,7 +14,19 @@ ChatGPT Mirror 后台是一个 ChatGPT 镜像网站，允许多账号共享管�
 
 ## 使用方法
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2BFs6F5SRpU/0.jpg)](https://www.youtube.com/watch?v=2BFs6F5SRpU)
+<!-- [![IMAGE ALT TEXT HERE](https://member.bilibili.com/ed6f9a02-54e5-41a4-bc3f-7ad7b9aeb282)](https://www.bilibili.com/video/BV1fD421M7xP/) -->
+
+<a href="https://www.youtube.com/watch?v=2BFs6F5SRpU" target="_blank">
+  <img src="https://img.youtube.com/vi/2BFs6F5SRpU/maxresdefault.jpg"  alt="使用方法">
+</a>
+
+## 在线体验
+
+```
+https://chatgpt.dairoot.cn/
+账号：dairoot
+密码：dairoot
+```
 
 ## 本地运行
 
