@@ -16,8 +16,8 @@ ChatGPT Mirror 后台是一个 ChatGPT 镜像网站，允许多账号共享管�
 
 <!-- [![IMAGE ALT TEXT HERE](https://member.bilibili.com/ed6f9a02-54e5-41a4-bc3f-7ad7b9aeb282)](https://www.bilibili.com/video/BV1fD421M7xP/) -->
 
-<a href="https://www.youtube.com/watch?v=Wj17Tf_KxHw" target="_blank">
-  <img src="https://img.youtube.com/vi/Wj17Tf_KxHw/maxresdefault.jpg"  alt="使用方法">
+<a href="https://www.bilibili.com/video/BV1fD421M7xP/" target="_blank">
+  <img src="https://i2.hdslb.com/bfs/archive/c587c19f5311442a783294cb7bdadb63f5d56b01.jpg"  alt="使用方法">
 </a>
 
 ## 在线体验
